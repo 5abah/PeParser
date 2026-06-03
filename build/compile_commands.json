@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/CsDaBest/Documents/Projects/PE_Parser/build",
+  "command": "C:\\msys64\\clang64\\bin\\c++.exe -std=c++23 -o CMakeFiles\\PeParser.dir\\main.cpp.obj -c C:\\Users\\CsDaBest\\Documents\\Projects\\PE_Parser\\main.cpp",
+  "file": "C:/Users/CsDaBest/Documents/Projects/PE_Parser/main.cpp",
+  "output": "C:/Users/CsDaBest/Documents/Projects/PE_Parser/build/CMakeFiles/PeParser.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/CsDaBest/Documents/Projects/PE_Parser/build",
+  "command": "C:\\msys64\\clang64\\bin\\c++.exe -std=c++23 -o CMakeFiles\\PeParser.dir\\parse.cpp.obj -c C:\\Users\\CsDaBest\\Documents\\Projects\\PE_Parser\\parse.cpp",
+  "file": "C:/Users/CsDaBest/Documents/Projects/PE_Parser/parse.cpp",
+  "output": "C:/Users/CsDaBest/Documents/Projects/PE_Parser/build/CMakeFiles/PeParser.dir/parse.cpp.obj"
+}
+]
